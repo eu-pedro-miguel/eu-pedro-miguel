@@ -2,16 +2,15 @@
 
 - 🔭 Hoje estou trabalhando: Carregando [----------]
 - 🌱 Estudando: Jquery e JavaScript
-- 📫 Contato: opedromiguel.sc@gmail.com
 - 😄 Pronomes: ele/dele
 
 ---
 
 ### Contatos
 
-📧 [Meu e-mail: opedromiguel.sc@gmail.com](mailto:opedromiguel.sc@gmail.com)  
+📧 [Meu e-mail profissional: opedromiguel.sc@gmail.com](mailto:opedromiguel.sc@gmail.com)  
 💬 Discord: `eu_pedro_miguel`  
-📸 [Meu instagram](https://www.instagram.com/opedro.omiguel/)
+📸 [Meu instagram profissional](https://www.instagram.com/opedro.omiguel/)
 
 ---
 
