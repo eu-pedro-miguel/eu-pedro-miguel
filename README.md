@@ -9,7 +9,7 @@
 ### Contatos
 
 📧 [Meu e-mail profissional: opedromiguel.sc@gmail.com](mailto:opedromiguel.sc@gmail.com)  
-💬 Discord profissional: `eu_pedro_miguel`  
+💬 Meu discord profissional: `eu_pedro_miguel`  
 📸 [Meu instagram profissional](https://www.instagram.com/opedro.omiguel/)
 
 ---
