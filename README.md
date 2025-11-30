@@ -1,4 +1,4 @@
-### Olá! Eu sou Pedro Miguel 👋
+## Pedro Miguel
 
 - 🔭 Hoje estou trabalhando: Carregando [----------]
 - 🌱 Estudando: Jquery e JavaScript
@@ -8,23 +8,67 @@
 
 ### Contatos
 
-📧 [Meu e-mail profissional: opedromiguel.sc@gmail.com](mailto:opedromiguel.sc@gmail.com)  
-💬 Meu discord profissional: `eu_pedro_miguel`  
-📸 [Meu instagram profissional](https://www.instagram.com/opedro.omiguel/)
+[![Email](https://img.shields.io/badge/Email-opedromiguel.sc@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opedromiguel.sc@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-eu_pedro_miguel-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-opedro.omiguel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/opedro.omiguel/)
 
 ---
 
-### Tecnologias e Linguagens
+### Linguagens e Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img 
+    align="left" 
+    alt="HTML5"
+    title="HTML5" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="jQuery" 
+    title="jQuery"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap 5"
+    title="Bootstrap 5" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TailwindCSS" 
+    title="TailwindCSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<br style="clear: both;" />
+
 
 ---
 
 ### Meu GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eu-pedro-miguel&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eu-pedro-miguel&theme=tokyonight)
