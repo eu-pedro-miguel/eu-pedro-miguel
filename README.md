@@ -9,7 +9,7 @@
 ### Contatos
 
 [![Email](https://img.shields.io/badge/Email-opedromiguel.sc@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opedromiguel.sc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Miguel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-miguel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Miguel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-miguel-ba7379349/)
 [![Instagram](https://img.shields.io/badge/Instagram-opedro.omiguel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/opedro.omiguel/)
 [![Discord](https://img.shields.io/badge/Discord-eu_pedro_miguel-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
 
