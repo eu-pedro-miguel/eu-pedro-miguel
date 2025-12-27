@@ -8,7 +8,7 @@
 
 Sou Desenvolvedor Web com foco em Front-End e utilizo HTML5, CSS3, Bootstrap 5, Tailwind CSS, jQuery e JavaScript para criar sites funcionais e responsivos.
 
-Formado no curso técnico de Desenvolvimento de Sistemas pela Etec Ilza Nascimento Pintus, em São José dos Campos, com duração de dois anos, adquiri domínio em Python, desenvolvimento de sites, utilização de frameworks e APIs, além de conhecimentos em versionamento de código e redes de computadores. Durante o curso, desenvolvi projetos que me permitiram aplicar tecnologia para obter resultados eficientes, analisar informações e dados, incentivar a inovação e fortalecer o trabalho em equipe, com escuta ativa e capacidade colaborativa.
+Formado no curso técnico de Desenvolvimento de Sistemas pela Etec Ilza Nascimento Pintus, em São José dos Campos, com duração de dois anos, adquiri domínio em Python, desenvolvimento de sites, utilização de frameworks e APIs, além de conhecimentos em versionamento de código, PHP, banco de dados e redes de computadores. Durante o curso, desenvolvi projetos que me permitiram aplicar tecnologia para obter resultados eficientes, analisar informações e dados, incentivar a inovação e fortalecer o trabalho em equipe, com escuta ativa e capacidade colaborativa.
 
 ---
 
