@@ -1,7 +1,7 @@
 ## Pedro Miguel
 
 - 🔭 Hoje estou trabalhando: Carregando [----------]
-- 🌱 Estudando: JavaScript
+- 🌱 Estudando: CSS, HTML, Java e JavaScript
 - 😄 Pronomes: ele/dele
 
 ---
