@@ -48,14 +48,6 @@ Formado no curso técnico de Desenvolvimento de Sistemas pela Etec Ilza Nascimen
 />
 <img 
     align="left" 
-    alt="jQuery" 
-    title="jQuery"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap 5"
     title="Bootstrap 5" 
     width="40px" 
